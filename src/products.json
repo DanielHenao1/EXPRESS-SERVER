@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "TodoenUno",
+    "description": "AllinOne de última generación",
+    "price": 899.99,
+    "thumbnail": "allinOne.jpg",
+    "code": "LPT002",
+    "stock": 20
+  },
+  {
+    "id": 2,
+    "title": "Impresora",
+    "description": "Impresora de alta calidad",
+    "price": 599.99,
+    "thumbnail": "impresora.jpg",
+    "code": "IMP001",
+    "stock": 100
+  },
+  {
+    "id": 3,
+    "title": "Smartphone",
+    "description": "Smartphone avanzado",
+    "price": 599.99,
+    "thumbnail": "smartphone.jpg",
+    "code": "SPH001",
+    "stock": 15
+  },
+  {
+    "id": 5,
+    "title": "Laptop",
+    "description": "Laptop de última generación",
+    "price": 999.99,
+    "thumbnail": "laptop.jpg",
+    "code": "LPT001",
+    "stock": 10
+  }
+]
